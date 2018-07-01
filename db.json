@@ -1,4 +1,6 @@
-[
+	
+{
+"Pricelist": [
   {
     "_id": 1,
     "plistName": "RETAIL PRICELIST",
@@ -372,3 +374,4 @@
     ]
   }
 ]
+}
